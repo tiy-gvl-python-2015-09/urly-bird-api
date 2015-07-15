@@ -2,7 +2,7 @@
 
 ## Description
 
-Add a REST-based API to [URLy Bird](https://github.com/tiyd-python-2015-05/urly-bird).
+Add a REST-based API to [URLy Bird](https://github.com/tiy-gvl-python/urly-bird-lite).
 
 ## Objectives
 
